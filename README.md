@@ -1,5 +1,5 @@
 # socket-grid
-A NodeJS demo project using Socke.io.
+A NodeJS demo project using Socket.io.
 
 ### How to run this project?
 Go to the base directory of this project in your local machine. Execute the following commands in your terminal:

@@ -12,7 +12,7 @@ npm install
 ```
 npm start
 ```
-Open your browser and visit `http://localhost:3991`.
+Open your browser and visit `http://localhost:3001`.
 ### How this work?
 To appreciate what this demo all about, you need to visit `http://localhost:3001` in multiple tabs on your browser.  
 Try clicking the cells on the grid to create a pattern.  
